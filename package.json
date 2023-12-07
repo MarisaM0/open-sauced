@@ -1,5 +1,5 @@
 {
-  "name": "@open-sauced/open-sauced",
+  "name": "@MarisaM0/open-sauced",
   "description": "Open Sauced provides structured onboarding for new contributors to open source. This structure provides a way to track your next contributions by leveraging a unique dashboard built on top of the GitHub GraphQL API.",
   "version": "0.57.0",
   "private": true,

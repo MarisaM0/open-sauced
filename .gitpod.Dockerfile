@@ -11,4 +11,4 @@ RUN \
       libxss1\
       libasound2
 
-RUN npm install --global npm@latest
+RUN npm install --global npm@7.0.0

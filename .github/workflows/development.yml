@@ -24,7 +24,7 @@ jobs:
           node-version: 16
 
       - name: "🔧 install npm@7.0.0"
-        run: npm i -g npm@7.0.0
+        run: npm i -g npm@8.0.0
 
       - name: "📦 install dependencies"
         uses: bahmutov/npm-install@v1
@@ -46,7 +46,7 @@ jobs:
           node-version: 16
 
       - name: "🔧 install npm@7.0.0"
-        run: npm i -g npm@7.0.0
+        run: npm i -g npm@8.0.0
 
       - name: "📦 install dependencies"
         uses: bahmutov/npm-install@v1

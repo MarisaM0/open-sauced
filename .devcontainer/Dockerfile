@@ -8,4 +8,4 @@ RUN \
     sudo apt install -y --no-install-recommends\
       zsh
 
-RUN npm install --global npm@7.0.0
+RUN npm install --global npm@8.0.0
